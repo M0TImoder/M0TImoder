@@ -5,6 +5,10 @@ I build all sorts of things: robot control systems, games, small tools... basica
 
 If any of my projects help you, I’ll probably be so happy I’ll get a nosebleed. Maybe literally.  
 
+### 🏢 organization
+Part of **[@udonrobo](https://github.com/udonrobo)**. 
+Scientific proof shows it's the coolest organization name in existence. Change my mind.
+
 ### 💻 Language
 I write in C, C++, C#, Python, Rust, JavaScript — basically whatever language looks fun that week.  
 (Skill level? Never heard of it. Sounds tasty though.)  
