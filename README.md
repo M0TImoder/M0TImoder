@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github-readme-stats-m0timoder3894-jhcvgt90.leapcell.dev/api/top-langs?username=M0TImoder&layout=compact&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats-m0timoder3894-jhcvgt90.leapcell.dev/api?username=M0TImoder&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+</p>
+
 ## Hi there 👋
 
 Hey there, I’m M0TImoder — a young developer from Japan. :D  
